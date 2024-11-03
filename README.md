@@ -2,6 +2,8 @@
 
 안드로이드에서 앱을 설치하기 위해서 다음 APK 파일을 다운로드 해주세요.
 
+[다운로드](https://github.com/pula39/DownupUpdown-aos-distribution/releases/download/release/Down-up.Up-down.apk)
+
 ### `출처를 알 수 없는 앱 설치` 관련 문구가 나오는 경우
 
 APK 파일을 설치하기 위해서는 다음과 같이 설정을 잠시 변경해줄 필요가 있습니다.
