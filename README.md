@@ -1,5 +1,9 @@
 ## Down-up/Up-down 다운로드 페이지
 
+![image](https://github.com/user-attachments/assets/935175e5-990e-4ead-8884-84770aa588de)
+
+## APK 다운로드
+
 안드로이드에서 앱을 설치하기 위해서 아래 링크를 클릭하여 APK 파일을 다운로드 한 후 설치해주세요.
 
 [다운로드](https://github.com/pula39/DownupUpdown-aos-distribution/releases/download/release/Down-up.Up-down.apk)
